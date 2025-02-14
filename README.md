@@ -1,7 +1,7 @@
 # React App 🚀
 
 
-# Parcel does these things ([text](https://parceljs.org/))
+# Parcel does these things ([parcel](https://parceljs.org/))
 - Dev build
 - local server
 - HMR (hot module replacement)
